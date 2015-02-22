@@ -6,9 +6,9 @@ An icon font of New York City boroughs. Modeled after ProPublica's [StateFace](h
 
 # How to use it as a webfont
 
-**Step 1:** Unzip `boroface.zip` and place the four files in the `webfont` subdirectory somewhere.
-
 ### Option 1: Manual
+
+**Step 1:** Unzip `boroface.zip` and place the four files in the `webfont` subdirectory somewhere.
 
 **Step 2:** Add the following CSS to your stylesheet, replacing `path/to/` with the correct path to the font files:
 
@@ -45,13 +45,35 @@ Anything with `font-family: 'BoroFaceRegular'` will now inherit the BoroFace fon
 
 ### Option 2: Font Awesome-style
 
-**Step 2:** Put the included `boroface.css` in the same directory as the four font files.
 
-You can now insert a state by using an empty tag with the `bf` class.
+**Step 1:** Unzip `boroface.zip` and place the four files in the `webfont` subdirectory somewhere.
+
+**Step 2:** Put `boroface.css` in the same directory as the four font files and include it as a stylesheet.
 
 ```HTML
 <link rel="stylesheet" href="path/to/boroface.css"/>
 ```
+
+You can now insert a state by using an empty tag with the `bf` class.
+
+```HTML
+<div><i class="bf bf-brooklyn"></i>Brooklyn</div>
+<div><i class="bf bf-manhattan"></i>Manhattan</div>
+<div><i class="bf bf-queens"></i>Queens</div>
+<div><i class="bf bf-staten"></i>Staten Island</div>
+<div><i class="bf bf-bronx"></i>Bronx</div>
+<div><i class="bf bf-nyc"></i>All of NYC</div>
+```
+
+### Option 3: Hosted
+
+Instead of downloading any files, include the hosted version of `boroface.css` as a stylesheet.
+
+```HTML
+<link rel="stylesheet" href="http://datanews.github.io/boroface/boroface.css"/>
+```
+
+You can now insert a state by using an empty tag with the `bf` class.
 
 ```HTML
 <div><i class="bf bf-brooklyn"></i>Brooklyn</div>
