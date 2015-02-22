@@ -65,25 +65,6 @@ You can now insert a state by using an empty tag with the `bf` class.
 <div><i class="bf bf-nyc"></i>All of NYC</div>
 ```
 
-### Option 3: Hosted
-
-Instead of downloading any files, include the hosted version of `boroface.css` as a stylesheet.
-
-```HTML
-<link rel="stylesheet" href="http://datanews.github.io/boroface/v1/boroface.css"/>
-```
-
-You can now insert a state by using an empty tag with the `bf` class.
-
-```HTML
-<div><i class="bf bf-brooklyn"></i>Brooklyn</div>
-<div><i class="bf bf-manhattan"></i>Manhattan</div>
-<div><i class="bf bf-queens"></i>Queens</div>
-<div><i class="bf bf-staten"></i>Staten Island</div>
-<div><i class="bf bf-bronx"></i>Bronx</div>
-<div><i class="bf bf-nyc"></i>All of NYC</div>
-```
-
 # Key
 
 All letters are uppercase.
