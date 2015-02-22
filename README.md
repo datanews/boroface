@@ -83,6 +83,8 @@ BoroFace was created by Noah Veltman for the [WNYC Data News Team](http://datane
 
 Webfont assets were generated via [Font Squirrel](http://fontsquirrel.com/tools/webfont-generator).
 
+Borough boundaries are from the [New York City Department of City Planning](http://www.nyc.gov/html/dcp/html/bytes/districts_download_metadata.shtml).
+
 StateFace is Copyright (c) 2012, ProPublica  
 BoroFace is Copyright (c) 2015, WNYC
 
