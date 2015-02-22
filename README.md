@@ -2,7 +2,7 @@
 
 An icon font of New York City boroughs. Modeled after ProPublica's [StateFace](http://propublica.github.io/stateface/).
 
-[!BoroFace](boroface.png)
+![BoroFace](boroface.png)
 
 # How to use it as a webfont
 
