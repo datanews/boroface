@@ -2,6 +2,8 @@
 
 An icon font of New York City boroughs. Modeled after ProPublica's [StateFace](http://propublica.github.io/stateface/).
 
+[Demo](http://datanews.github.io/boroface/)
+
 # How to use it as a webfont
 
 **Step 1:** Unzip `boroface.zip` and place the four files in the `webfont` subdirectory somewhere.
@@ -70,8 +72,6 @@ All letters are uppercase.
 `Q` - Queens  
 `S` - Staten Island  
 `X` - Bronx  
-
-[Demo](http://datanews.github.io/boroface/)
 
 # To do
 
