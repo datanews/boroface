@@ -70,7 +70,7 @@ You can now insert a state by using an empty tag with the `bf` class.
 Instead of downloading any files, include the hosted version of `boroface.css` as a stylesheet.
 
 ```HTML
-<link rel="stylesheet" href="http://datanews.github.io/boroface/boroface.css"/>
+<link rel="stylesheet" href="http://datanews.github.io/boroface/v1/boroface.css"/>
 ```
 
 You can now insert a state by using an empty tag with the `bf` class.
