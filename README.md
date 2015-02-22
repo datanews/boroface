@@ -45,7 +45,7 @@ Anything with `font-family: 'BoroFaceRegular'` will now inherit the BoroFace fon
 
 ### Option 2: Font Awesome-style
 
-**Step 2:** Put the enclosed `boroface.css` in the same directory as the four font files.
+**Step 2:** Put the included `boroface.css` in the same directory as the four font files.
 
 You can now insert a state by using an empty tag with the `bf` class.
 
