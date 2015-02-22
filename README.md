@@ -12,7 +12,7 @@ An icon font of New York City boroughs. Modeled after ProPublica's [StateFace](h
 
 **Step 2:** Add the following CSS to your stylesheet, replacing `path/to/` with the correct path to the font files:
 
-```
+```CSS
 @font-face {
     font-family: 'BoroFaceRegular';
     src: url('path/to/BoroFace-Regular-webfont.eot');
@@ -28,13 +28,13 @@ An icon font of New York City boroughs. Modeled after ProPublica's [StateFace](h
 
 Anything with `font-family: 'BoroFaceRegular'` will now inherit the BoroFace font and you can insert icons by using the correct letter (see *Key* below).
 
-```
+```CSS
 .boro {
     font-family: 'BoroFaceRegular';
 }
 ```
 
-```
+```HTML
 <div><span class="boro">K</span>Brooklyn</div>
 <div><span class="boro">M</span>Manhattan</div>
 <div><span class="boro">Q</span>Queens</div>
@@ -49,11 +49,11 @@ Anything with `font-family: 'BoroFaceRegular'` will now inherit the BoroFace fon
 
 You can now insert a state by using an empty tag with the `bf` class.
 
-```
+```HTML
 <link rel="stylesheet" href="path/to/boroface.css"/>
 ```
 
-```
+```HTML
 <div><i class="bf bf-brooklyn"></i>Brooklyn</div>
 <div><i class="bf bf-manhattan"></i>Manhattan</div>
 <div><i class="bf bf-queens"></i>Queens</div>
