@@ -1,6 +1,9 @@
 {
 DisplayStrings = (
-K
+K,
+N,
+Q,
+X
 );
 copyright = "Copyright \U00A9 2015 WNYC";
 date = "2015-02-21 17:44:32 +0000";
@@ -2067,7 +2070,7 @@ unicode = 004E;
 },
 {
 glyphname = Q;
-lastChange = "2015-02-22 03:43:19 +0000";
+lastChange = "2015-02-23 14:37:51 +0000";
 layers = (
 {
 layerId = "5CF9D60B-72E2-44E8-BF6B-2BB620221BFE";
@@ -2470,68 +2473,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"328 147 LINE",
-"329 145 LINE",
-"327 141 LINE",
-"330 141 LINE",
-"330 138 LINE",
-"328 136 LINE",
-"321 136 LINE",
-"317 140 LINE",
-"312 144 LINE",
-"306 148 LINE",
-"307 150 LINE",
-"311 152 LINE",
-"313 154 LINE",
-"316 155 LINE",
-"320 154 LINE",
-"321 152 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"378 163 LINE",
-"376 160 LINE",
-"372 164 LINE",
-"368 172 LINE",
-"369 177 LINE",
-"370 178 LINE",
-"377 175 LINE",
-"379 173 LINE",
-"379 166 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"410 188 LINE",
-"411 184 LINE",
-"408 177 LINE",
-"394 178 LINE",
-"392 184 LINE",
-"394 187 LINE",
-"399 190 LINE",
-"405 191 LINE",
-"408 191 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"326 186 LINE",
-"328 190 LINE",
-"331 193 LINE",
-"333 193 LINE",
-"335 190 LINE",
-"336 185 LINE",
-"330 181 LINE",
-"323 182 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "476 205 LINE",
 "476 200 LINE",
 "482 198 LINE",
@@ -2680,86 +2621,6 @@ nodes = (
 "462 205 LINE",
 "467 205 LINE",
 "473 206 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"437 210 LINE",
-"439 210 LINE",
-"442 207 LINE",
-"441 203 LINE",
-"436 199 LINE",
-"433 198 LINE",
-"428 195 LINE",
-"425 194 LINE",
-"422 191 LINE",
-"420 187 LINE",
-"419 188 LINE",
-"419 191 LINE",
-"423 194 LINE",
-"422 198 LINE",
-"424 201 LINE",
-"427 203 LINE",
-"432 206 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"469 208 LINE",
-"457 211 LINE",
-"468 225 LINE",
-"471 224 LINE",
-"473 208 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"410 240 LINE",
-"414 239 LINE",
-"415 237 LINE",
-"405 231 LINE",
-"402 226 LINE",
-"401 219 LINE",
-"399 216 LINE",
-"398 211 LINE",
-"395 204 LINE",
-"393 203 LINE",
-"390 204 LINE",
-"390 211 LINE",
-"389 216 LINE",
-"384 226 LINE",
-"384 229 LINE",
-"386 234 LINE",
-"389 237 LINE",
-"395 241 LINE",
-"406 244 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"374 246 LINE",
-"376 236 LINE",
-"376 231 LINE",
-"375 226 LINE",
-"376 225 LINE",
-"377 217 LINE",
-"379 213 LINE",
-"377 212 LINE",
-"375 215 LINE",
-"373 220 LINE",
-"371 227 LINE",
-"370 229 LINE",
-"370 233 LINE",
-"366 243 LINE",
-"364 249 LINE",
-"364 253 LINE",
-"366 255 LINE",
-"371 253 LINE",
-"373 249 LINE"
 );
 },
 {
