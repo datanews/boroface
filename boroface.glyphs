@@ -1,8 +1,6 @@
 {
 DisplayStrings = (
-N,
-X,
-M
+K
 );
 copyright = "Copyright \U00A9 2015 WNYC";
 date = "2015-02-21 17:44:32 +0000";
@@ -34,7 +32,7 @@ xHeight = 537;
 glyphs = (
 {
 glyphname = K;
-lastChange = "2015-02-22 03:42:59 +0000";
+lastChange = "2015-02-23 14:29:45 +0000";
 layers = (
 {
 anchors = (
@@ -53,25 +51,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"619 53 LINE",
-"614 60 LINE",
-"613 67 LINE",
-"612 75 LINE",
-"616 86 LINE",
-"620 89 LINE",
-"628 97 LINE",
-"634 95 LINE",
-"638 92 LINE",
-"644 80 LINE",
-"643 72 LINE",
-"638 62 LINE",
-"634 61 LINE",
-"625 54 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "455 130 LINE",
 "463 124 LINE",
 "469 115 LINE",
@@ -86,175 +65,6 @@ nodes = (
 "443 125 LINE",
 "448 130 LINE",
 "451 131 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"665 116 LINE",
-"658 115 LINE",
-"647 117 LINE",
-"639 128 LINE",
-"637 133 LINE",
-"642 141 LINE",
-"645 143 LINE",
-"652 141 LINE",
-"666 140 LINE",
-"672 136 LINE",
-"679 127 LINE",
-"673 120 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"683 182 LINE",
-"683 175 LINE",
-"678 172 LINE",
-"671 166 LINE",
-"667 166 LINE",
-"663 171 LINE",
-"663 176 LINE",
-"671 176 LINE",
-"676 182 LINE",
-"680 185 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"706 189 LINE",
-"712 182 LINE",
-"715 185 LINE",
-"721 189 LINE",
-"727 185 LINE",
-"719 171 LINE",
-"719 167 LINE",
-"710 160 LINE",
-"710 155 LINE",
-"707 154 LINE",
-"699 154 LINE",
-"694 155 LINE",
-"691 156 LINE",
-"685 159 LINE",
-"690 162 LINE",
-"692 166 LINE",
-"695 167 LINE",
-"696 175 LINE",
-"696 181 LINE",
-"698 185 LINE",
-"696 188 LINE",
-"699 192 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"734 194 LINE",
-"731 195 LINE",
-"728 198 LINE",
-"729 204 LINE",
-"731 209 LINE",
-"729 217 LINE",
-"731 221 LINE",
-"735 223 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"684 229 LINE",
-"683 225 LINE",
-"679 220 LINE",
-"670 220 LINE",
-"660 217 LINE",
-"658 223 LINE",
-"662 226 LINE",
-"665 227 LINE",
-"667 222 LINE",
-"670 221 LINE",
-"676 221 LINE",
-"677 227 LINE",
-"674 231 LINE",
-"676 233 LINE",
-"681 233 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"617 207 LINE",
-"603 201 LINE",
-"594 200 LINE",
-"587 201 LINE",
-"584 204 LINE",
-"584 214 LINE",
-"585 218 LINE",
-"590 226 LINE",
-"595 229 LINE",
-"600 234 LINE",
-"628 255 LINE",
-"632 252 LINE",
-"633 247 LINE",
-"632 243 LINE",
-"627 235 LINE",
-"628 232 LINE",
-"631 229 LINE",
-"632 224 LINE",
-"630 212 LINE",
-"626 209 LINE",
-"620 207 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"683 240 LINE",
-"655 239 LINE",
-"655 244 LINE",
-"656 255 LINE",
-"660 258 LINE",
-"662 255 LINE",
-"669 252 LINE",
-"674 251 LINE",
-"679 253 LINE",
-"684 257 LINE",
-"687 261 LINE",
-"691 258 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"672 266 LINE",
-"669 264 LINE",
-"662 262 LINE",
-"656 262 LINE",
-"654 264 LINE",
-"655 270 LINE",
-"658 274 LINE",
-"664 274 LINE",
-"666 278 LINE",
-"671 279 LINE",
-"674 276 LINE",
-"672 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"693 281 LINE",
-"688 273 LINE",
-"684 271 LINE",
-"682 272 LINE",
-"682 279 LINE",
-"685 285 LINE",
-"688 295 LINE",
-"693 300 LINE",
-"695 298 LINE",
-"697 293 LINE",
-"701 291 LINE",
-"699 287 LINE"
 );
 },
 {
@@ -808,7 +618,7 @@ unicode = 004B;
 },
 {
 glyphname = M;
-lastChange = "2015-02-22 03:34:55 +0000";
+lastChange = "2015-02-23 14:28:47 +0000";
 layers = (
 {
 layerId = "5CF9D60B-72E2-44E8-BF6B-2BB620221BFE";
