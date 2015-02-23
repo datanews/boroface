@@ -76,9 +76,23 @@ All letters are uppercase.
 `S` - Staten Island  
 `X` - Bronx  
 
+# Notes on small islands
+
+These icons are meant to be broadly representative, not geographically precise.
+
+Ellis Island, Liberty Island, and most of the uninhabited islands in Jamaica Bay are excluded entirely.
+
+Roosevelt, Governors, Randall's, Wards, Rikers, and Hart Islands are excluded from borough icons but retained in the citywide icon.
+
+Marble Hill is not included in the Manhattan icon.
+
+Icons are displayed in the NAD83 New York Long Island projection.
+
 # To do
 
-Clean up Jamaica Bay and various small piers/channels.
+* Clean up small piers/channels and the Brooklyn Navy Yard.
+* Clean out more of Jamaica Bay?
+* Add Ellis/Liberty Island to citywide?
 
 # Credits/License
 
